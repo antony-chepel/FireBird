@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329221829514",
+    "project_id": "thefirebirdoffreedom-c6071",
+    "storage_bucket": "thefirebirdoffreedom-c6071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329221829514:android:3b50f0bfd80f3c09a88e73",
+        "android_client_info": {
+          "package_name": "com.app.thefirebirdoffreedom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329221829514-hpqh9vv6tibq8upg0kq13seefj7bqo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_FIN6lRziCt2_za-UyhtqDkqmoUjpA-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329221829514-hpqh9vv6tibq8upg0kq13seefj7bqo7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
